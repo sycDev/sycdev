@@ -5,7 +5,7 @@
 </picture>
 
 <p align="left">
-  I'm a passionate second-year software engineering student, interested in Java programming and full-stack web development.
+  I'm a passionate third-year Software Engineering student with a strong interest in Java programming and full-stack web development.
   <br/>
   🚀 Despite my ongoing studies toward a part-time degree, I am dedicated to pursuing a career as a Software Development Engineer (SDE).
 </p>
@@ -14,10 +14,10 @@
     <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExaDViMWZnZml1OWU5ejA1cnFiZ3ZpYXh4Z29qNDBhYnN5M3ZiMTlzaiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/L1R1tvI9svkIWwpVYr/giphy.gif" />
 </p>
 
-- 🔭 I’m currently working on honing my Java skills and enhancing my full-stack expertise.
+- 🔭 I’m focusing on mastering AI engineering and advancing my skills in full-stack development.
 - 🌱 I love coding, always eager to learn and take on new challenges.
-- 📚 My fascination with coding sparked in 2017, leading me on a self-taught programming journey. I continued to nurture my passion through computer science studies during secondary school and now in my pursuit of a Bachelor in Software Engineering.
-- 🏢 I previously worked as a web developer trainee for 5 months (Dec19 - Apr20), gaining hands-on experience.
+- 📚 My fascination with coding sparked in 2017, leading me on a self-taught programming journey. I continued to nurture my passion through computer science studies during secondary school and am now in pursuit of a Bachelor in Software Engineering.
+- 🏢 I gained hands-on experience as a Web Developer Trainee (Dec19 - Apr20) and a Software Engineer Intern (Jun24 - Aug24).
 - ⚙️ I have a keen eye for applying best practices in coding styles, always striving to maintain clean and efficient code.
 - 🎸 Outside of coding, you'll often find me strumming my guitar, exploring new melodies and tunes.
 - 👧 She/Her
